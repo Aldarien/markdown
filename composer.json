@@ -1,0 +1,19 @@
+{
+    "name": "aldarien/markdown",
+    "description": "Markdown Local Viewer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aldarien",
+            "email": "aldarien85@gmail.com"
+        }
+    ],
+    "require": {
+        "cebe/markdown": "^1.1",
+        "aldarien/view": "^1.0"
+    },
+    "require-dev": {
+        "kint-php/kint": "^2.2"
+    }
+}
