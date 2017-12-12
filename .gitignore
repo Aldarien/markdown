@@ -10,3 +10,6 @@ vendor/
 # NPM
 package-lock.json
 node_modules
+
+# View
+cache/
