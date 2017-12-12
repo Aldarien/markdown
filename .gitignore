@@ -1,0 +1,12 @@
+# Eclipse
+.buildpath
+.project
+.settings
+
+# Composer
+composer.lock
+vendor/
+
+# NPM
+package-lock.json
+node_modules
